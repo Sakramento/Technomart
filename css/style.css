@@ -699,7 +699,7 @@ input[id='search']:focus ~ label[for='search']:after {
   background-color: #fff;
 }
 
-.slider-controls .active-item {
+.slider-controls .active-dot {
   background-color: #ee3643;;
 }
 
