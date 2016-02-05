@@ -58,7 +58,10 @@ $(document).ready(function() {
 				return false;
 			}); //end click prev
 
-
+			$('.slider-controls').find('a').click(function(event) {
+				event.preventDefault();
+			}); //end click
+			
 			var serviceControls = $('.service-slider-controls');
 			var serviceInner = $('.service-slider-inner');
 
