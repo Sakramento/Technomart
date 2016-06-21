@@ -1297,8 +1297,8 @@ input[id='search']:focus ~ label[for='search']:after {
 .about-company li {
   padding-left: 36px;
   margin-bottom: 22px;
-  background-image: -webkit-linear-gradient(#fff 48%, #fb565a 48%, #fb565a 52%, #fff 52%);
-  background-image: linear-gradient(#fff 48%, #fb565a 48%, #fb565a 52%, #fff 52%);
+  background-image: -webkit-linear-gradient(#fff 48%, #fb565a 48%, #fb565a 53%, #fff 53%);
+  background-image: linear-gradient(#fff 48%, #fb565a 48%, #fb565a 53%, #fff 53%);
   background-position: -620px center;
   background-repeat: no-repeat;
 
